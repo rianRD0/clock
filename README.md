@@ -1,5 +1,6 @@
 <h1 align="center"> DevLinks </h1>
 
+<img src=".github/img.png">
 
 ## 🚀 Tecnologias
 

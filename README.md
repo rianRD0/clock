@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> RELÓGIO ANALÓGICO </h1>
 
 <img src=".github/img.png">
 

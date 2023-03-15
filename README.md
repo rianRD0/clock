@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://small-project-psi.vercel.app/). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://clock-eta-two.vercel.app/). 
